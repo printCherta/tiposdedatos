@@ -28,6 +28,8 @@ public class Tiposdatos {
 		
 		char ejchar = 'A';
 		System.out.println("Valor de la letra ejemplo: "+ ejchar);
+		
+		System.out.println("Elaboró Aldair Chávezzz");
 	}
 
 }
